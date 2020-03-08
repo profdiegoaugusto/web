@@ -7,9 +7,11 @@ Em 1989, um cientista britânico chamado Tim Berners-Lee, inventou a World Wide 
 
 ## Ponto de Partida
 
+Para começar esse exercício, você deverá pegar todos os arquivos de texto bruto (sem formatação) dentro da pasta [data](data/), para poder fazer a marcação em HTML. Para cada arquivo `.txt` crie um novo arquivo `.html` usando o seu editor de código-fonte favorito, que irá utilizar para fazer este trabalho, por exemplo:
 
-
-
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+* [Sublime](sublimetext.com)
 
 ## Resumo do Projeto
 
@@ -23,6 +25,6 @@ Em 1989, um cientista britânico chamado Tim Berners-Lee, inventou a World Wide 
 # REFERÊNCIAS
 
 
-- [The birth of the Web](https://home.cern/science/computing/birth-web)
-- [A short history of the Web](https://home.cern/science/computing/birth-web/short-history-web)
-- [Line Mode Browser 2013: Revisiting the first universally accessible web browser](http://line-mode.cern.ch/)
+* [The birth of the Web](https://home.cern/science/computing/birth-web)
+* [A short history of the Web](https://home.cern/science/computing/birth-web/short-history-web)
+* [Line Mode Browser 2013: Revisiting the first universally accessible web browser](http://line-mode.cern.ch/)
