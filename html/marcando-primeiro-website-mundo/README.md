@@ -15,6 +15,14 @@ Para começar esse exercício, você deverá pegar todos os arquivos de texto br
 
 ## Resumo do Projeto
 
+Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, o primeiro website da CERN e do mundo disponível [aqui](http://info.cern.ch/). Você deve estruturar o documento geral com uma estrutura apropriada conforme a sintaxe e semântica do HTML5, incluindo os elementos: `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`; e adicionar corretamente:
+
+* Cabeçalhos: `<h1>, <h2>, <h3>, <h4>, <h5>, <h6>;`
+* Parágrafos: `<p>`;
+* Hiperlinks: `<a>`
+* Elementos de Destaque: `<em>, <strong>, <mark>, <cite>, <dfn>, <i>, <b>.`
+
+
 
 
 
