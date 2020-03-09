@@ -17,7 +17,7 @@ Alguns dos principais pratos da culinária regional mineira, como o feijão trop
 
 ## Ponto de Partida
 
-Para começar esse exercício e fazer a marcação em HTML, você deverá pegar o arquivo de texto bruto (sem formatação) chamado: `receitas.txt`; dentro da pasta [data](data/). Crie um novo arquivo `.html` com o mesmo nome do arquivo `.txt`, usando o seu editor de código-fonte favorito, que você irá utilizar para fazer este trabalho, por exemplo:
+Para começar esse exercício e fazer a marcação em HTML, você deverá pegar o arquivo de texto bruto (sem formatação) chamado: `receitas.txt`; dentro da pasta [data](data/). Crie um novo arquivo `.html` com o mesmo nome do arquivo `.txt`, usando o seu editor de código-fonte favorito que você irá utilizar para fazer este trabalho, por exemplo:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Atom](https://atom.io/)
@@ -25,7 +25,7 @@ Para começar esse exercício e fazer a marcação em HTML, você deverá pegar 
 
 ## Resumo do Projeto
 
-Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, uma página web com algumas receitas da culinária mineira. Você deverá estruturar o documento geral com uma estrutura apropriada conforme a sintaxe e semântica do HTML5, incluindo os elementos: `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`; além disso, coloque uma imagem `<img>` para cada receita após o nome dela e adicione corretamente quando necessário:
+Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, uma página web com algumas receitas da culinária mineira. Você deverá estruturar o documento geral com uma estrutura apropriada conforme a sintaxe e semântica do HTML5, incluindo os elementos: `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`. Além disso, coloque uma imagem `<img>` para cada receita após o nome dela e adicione corretamente quando necessário:
 
 * **Cabeçalhos:** `<h1>, <h2>, <h3>, <h4>, <h5>, <h6>;`
 * **Parágrafos:** `<p>`;
@@ -40,7 +40,6 @@ Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, uma página w
 
 
 ## REFERÊNCIAS
-
 
 * [Cozinha Mineira](https://www.mg.gov.br/conteudo/conheca-minas/cozinha-mineira/cozinha-mineira)
 
