@@ -35,7 +35,7 @@ Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, uma página w
 ## Dicas & Sugestões
 
 * Use o [validador HTML](https://validator.w3.org/) do W3C para validar seu HTML;
-* Consulte a lista de [elementos HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) para obter informações detalhadas de cada tag.
+* Consulte a lista de [elementos HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) para obter informações detalhadas de sobre cada tag.
 
 
 
