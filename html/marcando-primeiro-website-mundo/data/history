@@ -1,0 +1,64 @@
+History to date
+
+
+A few steps to date in the WWW project history are as follows:
+
+March 1989
+    First project proposal written and circulated for comment (TBL) . Paper "HyperText and CERN" (in ASCII or WriteNow format) produced as background.
+
+October 1990
+    Project proposal reformulated with encouragement from CN and ECP divisional management. RC is co-author.
+
+November 1990
+    Initial WorldWideWeb prototype developed on the NeXT (TBL) .
+
+November 1990
+    Nicola Pellow joins and starts work on the line-mode browser . Bernd Pollermann helps get interface to CERNVM "FIND" index running. TBL gives a colloquium on hypertext in general.
+
+Christmas 1990
+    Line mode and NeXTStep browsers demonstrable. Acces is possible to hypertext files, CERNVM "FIND", and internet news articles.
+
+Febraury 1991
+    workplan for the purposes of ECP division.
+
+26 February 1991
+    Presentation of the project to the ECP group.
+
+March 1991
+    Line mode browser (www) released to limited audience on priam vax, rs6000, sun4.
+
+May 1991
+    Workplan produced for CN/AS group
+
+17 May 1991
+    Presentation to C5 committee. General release of www on central CERN machines.
+
+12 June 1991
+    CERN Computer Seminar on WWW.
+
+August 1991
+    Files available on the net, posted on alt.hypertext (6, 16, 19th Aug), comp.sys.next (20th), comp.text.sgml and comp.mail.multi-media (22nd). Jean-Francois Groff joins the project.
+
+October 1991
+    VMS/HELP and WAIS gateways installed. Mailing lists www-interest (now www-announce) and www-talk@info.cern.ch started. One year status report. Anonymous telnet service started.
+
+December 1991
+    Presented poster and demonstration at HT91 . W3 browser installed on VM/CMS. CERN computer newsletter announces W3 to the HEP world.
+
+15 January 1992
+    Line mode browser release 1.1 available by anonymous FTP. See news . Presentation to AIHEP'92 at La Londe.
+
+12 February 1992
+    Line mode v 1.2 annouced on alt.hypertext, comp.infosystems, comp.mail.multi-media, cern.sting, comp.archives.admin, and mailing lists.
+
+May 1992
+    Presentation and demo at JENC3 (Innsbruck). Carl Barker joins the project.
+
+June 1992
+    Presentation and demo at HEPVM (Lyon).
+
+July 1992
+    Distribution of WWW through CernLib, including Viola. WWW library code ported to DECnet. Report to the Advisory Board on Computing.
+
+August 1992
+    introduction of CVS for code management.

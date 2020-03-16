@@ -1,0 +1,37 @@
+Technical details
+
+
+(See also: W3 project )
+
+How to provide data
+    How can I make my own data available on the web?
+
+Protocols
+    A description of the network protocols used.
+
+HTML format
+    A description of the mark-up language used for some documents and for search hit-lists.
+
+Addressing
+    The syntax of W3 document addresses.
+
+Design Issues
+    Discussions of decisions to be made when designing or selecting a hypertext/IR system. See also related products .
+
+Working notes
+    Work in progress at the drawing board.
+
+Data sources
+    Sources of data on the web itself, including W3 servers.
+
+News
+    Some internet/usenet newsgroups of possible interest to the WorldWideWeb project.
+
+Notation
+    Explanation of notation used in formal descriptions.
+
+Implementation guidelines
+    Rules to be followed by implementers.
+
+Coding standards
+    A basic style guide for W3 code contributors. If you write code, read this!

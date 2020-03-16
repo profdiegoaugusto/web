@@ -1,0 +1,105 @@
+WWW people
+
+
+This is a list of some of those who have contributed to the WWW project , and whose work is linked into this web. Unless otherwise stated they are at CERN, Phone +41(22)767 plus the extension given below or look them up in the phone book . Address: 1211 Geneva 23, Switzerland. See also: Wizards at SLAC .
+Eelco van Asperen
+Ported the line-mode browser the PC under PC-NFS; developed a curses version. Email: evas@cs.few.eur.nl.
+
+
+Carl Barker
+
+
+Carl is at CERN for a six month period during his degree course at Brunel University, UK. Carl will be working on the server side, possibly on client authentication. Tel: 8265. Email: barker@cernnext.cern.ch
+Tim Berners-Lee
+Currently in CN division. Before comming to CERN, Tim worked on, among other things, document production and text processing. He developped his first hypertext system, "Enquire", in 1980 for his own use (although unaware of the existence of the term HyperText). With a background in text processing, real-time software and communications, Tim decided that high energy physics needed a networked hypertext system and CERN was an ideal site for the development of wide-area hypertext ideas. Tim started the WorldWideWeb project at CERN in 1989. He wrote the application on the NeXT along with most of the communications software. Phone: 3755, Email: timbl@info.cern.ch
+
+
+Robert Cailliau
+
+
+Formerly in programming language design and compiler construction, Robert has been interested in document production since 1975, when he designed and implemented a widely used document markup and formatting system. He ran CERN's Office Computing Systems group from 87 to 89. He is a long-time user of Hypercard, which he used to such diverse ends as writing trip reports, games, bookkeeping software, and budget preparation forms. When he is not doing WWW's public relations, Robert is contributing browser software for the Macintosh platform, and analysing the needs of physics experiments for online data access. Phone: +41 (22) 767 50 05, Email: cailliau@cernnext.cern.ch
+Dan Connolly
+An early follower of the project, Dan wrote a private X-Windows editor for his company, and encouraged the use of proper SGML and MIME in the future. He wrote a DTD for HTML and an HTML legalizer for old files. Email: connolly@pixel.convex.com.
+
+
+Peter Dobberstein
+
+
+While at the DESY lab in Hamburg (DE), Peter did the port of the line-mode browser onto MVS and, indirectly, VM/CMS. These were the most difficult of the ports to date. He also overcame many incidental problems in making a large amount of information in the DESY database available.
+"Erwise" team
+Kim Nyberg, Teemu Rantanen, Kati Suominen and Kari Syd{nmaanlakka ('{' is 'a' with two dots above it.. we must get some character set description into HTML!) (under the supervision of Ari Lemmke) are "Erwise". At Helsinki Technical University, they are writing a Motif-based WWW browser (editor? we can hope...) for their undergraduate final year project. The team can be reached as erwise@cs.hut.fi and Ari as arl@cs.hut.fi.
+
+
+Alain Favre
+
+
+Alain is an undergraduate working with ECP/PT on a browser for Windows on PCs. Phone: 8265, no email yet. In CERN mostly in the afternoons.
+David Foster
+With wide experience in networking, and a current conviction information systems and PC/Windows being the way of the future, Dave is having a go at a MS-Windows browser/editor. Dave also has a strong interest in server technology and intelligent information retrieval algorithms.
+
+
+Jean-Francois Groff
+
+
+Provided some useful input in the "design issues". During his stay at CERN as "cooperant", J-F joined the project in September 1991. He wrote the gateway to the VMS Help system , worked on the new modular browser architecure, and helped support and present WWW at all levels. He is now porting the communications code to DECnet in order to set up servers for physics experiments. JF now works for NeXT Europe but continues his interest in the web...( Contact )
+
+
+Tony Johnson
+
+
+Tel: (415) 926 2278, TONYJ@scs.slac.stanford.edu.
+Designer of MidasWWW . Boston University, collaborating with SLAC, SSC, etc. A SLAC server expert and a WWWizard .
+
+
+Paul Kunz
+
+
+Paul took the W3 word across to SLAC, installed the clients and inspired the setting up of servers by the WWWizards . Paul spreads enthusiasm for all sort of good ideas such as OO programming, NeXTs, etc...
+
+
+Willem van Leeuwen
+
+
+at NIKHEF, WIllem put up many servers and has provided much useful feedback about the w3 browser code.
+
+
+Nicola Pellow
+
+
+With the project from November 1990 to August 1991, and October 1992 to ??. A graduate of Leicester Polytechnic, UK, Nicola wrote the original line mode browser . ( More ) Nicola is now (Oct 92) working on the Mac browser .
+
+
+Bernd Pollermann
+
+
+Bernd is responsible for the "XFIND" indexes on the CERNVM node, for their operation and, largely, their contents. He is also the editor of the Computer Newsletter (CNL), and has experience in managing large databases of information. Bernd is in the AS group of CN division. He has contributed code for the FIND server which allows hypertext access to this large store of information. Phone: 2407, Office: 513-1-16, Email: bernd@cernvm.cern.ch
+
+
+Arthur Secret
+
+
+A student at CERN during August and September 1992, Arthur wrote the first W3-Oracle gateway .
+
+
+Jonthan Streets
+
+
+Online Support group, FNAL. Jonathan put up a VMS server using DCL and later C. He helped debug the Mac browser.
+
+
+Pei Wei
+
+
+Pei is the author of " Viola", a hypertext browser, and the ViolaWWW variant which is a WWW browser. He was at the University of California at Berkeley, Experimental Computing Facility, now full time with O'Reilly and Associates, Sebastopol, CA, USA. Email: wei@xcf.berkeley.edu
+
+
+Bebo White
+
+
+one of the WWWizards at SLAC, Bebo enthusiastically spreads the word. During a short stay at CERN in summer '92, Bebo put up a number of servers for information from the Aleph experiment.
+
+
+James Whitescarver
+
+
+New Jersey Institute of Technology. jim@eies2.njit.edu
