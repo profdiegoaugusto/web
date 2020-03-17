@@ -43,3 +43,44 @@ Ou verifique individualmente digitando o comando `git config <key>` onde `<key>`
 ```bash
 git config user.name
 ```
+---
+
+## Obtendo um Repositório do Git
+
+Você pode pegar um repositório do Git de duas formas:
+
+1. Você pode transformar uma pasta em um repositório do Git;
+2. Você pode clonar (copiar) um repositório Git de algum lugar, por exemplo: [Github](https://github.com/join), [Bitbucket](https://bitbucket.org/).
+
+
+### 1. Inicializando um Repositório em um Diretório Existente
+
+Se você já tem uma pasta de projeto que atualmente não está sob controle de versão e deseja começar a controlá-la com o Git, primeiro você precisa ir ao diretório desse projeto usando a interface de linha de comando (e.g. ). Se você nunca fez isso, parece um pouco diferente, dependendo do sistema em execução:
+
+#### Windows
+```bash
+cd C:/Users/meu_usuário/meu_projeto
+```
+
+#### Linux
+```bash
+cd /home/user/meu_projeto
+```
+
+#### Mac
+```bash
+cd /home/user/meu_projeto
+```
+
+Feito isso, digite o comando abaixo:
+
+
+```bash
+git init
+```
+
+Agora você inicializou o seu **diretório de trabalho**, você vai perceber que foi criada uma nova pasta, chamada `.git`.
+
+### 2. Clonando um Repositório Existente
+
+Se você deseja obter uma cópia de um repositório Git existente, por exemplo, um projeto no qual gostaria de contribuir
