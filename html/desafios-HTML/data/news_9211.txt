@@ -1,0 +1,28 @@
+World-Wide Web News November 1992
+
+(As usual, this is distributed in plain text form, but the original hypertext contains lots of links and may be read as http://info.cern.ch/hypertext/WWW/News/9211.html. If you don't have World-Wide Web software yet, telnet to info.cern.ch (128.141.201.74), and select information about the WorldWide Web.)
+
+
+Client software
+
+Three developments on the clients side. Tony Johnson of Boston University, developer of the MidasWWW browser for Motif, has ported it now to four X11 platforms and has a tar file of sources available on ftp://info.cern.ch/pub/www/src or ftp://freehep.scri.fsu.edu/freehep/networking_news_email/midaswww as midaswww_1.0.tar.Z Tony also has plans to include graphics and text editing in the future.
+Here at CERN, Nicola Pellow is back until the end of the year, and has picked up the Mac Browser . She has a pre-alpha with basic functionality up, watch this space for the first release.
+
+The full-screen client (using curses) has been released by Jim Whitescarver of NJIT, see release note for details.
+
+The NeXTStep client has been revised. The 0.13 version generated bad SGML at times, so anyone using it to write hypertext is advised to upgrade to 0.14 immediately. The binary is in ftp://info.cern.ch/pub/www/bin/next/WorldWideWeb_0.14.app.tar.Z
+
+
+More and more hypertext on line
+
+New W3 servers have appeared at KVI ad at CWI both in the Netherlands, IN2P3 in France, and NCSA in Illinois, USA. KVI and IN2P3 are both High Energy Physics institites. All the servers have local information as well as various other goodies.
+CWI has a hypertext version of the Gnu documentation and of a guide to Audio formats , and NCSA has many things including hypertext documentation for the X-Collage system. Two CERN projects to produce online hypertext documentation recently are ADAMO and RD13.
+
+Meanwhile, Cornell Law school have a server with hypertext of US Copyright Law... as law tends to be mostly cross-reference ("as defined in Sect1.2.2.(a) above") hypertext makes a lot of sense here!
+
+
+Browse the WAIS servers
+It's sometimes been a bit difficult browsing through what there is in the WAIS world. Now, looking for information under "types of server" on the web will lead you to hypertext lists of WAIS servers arranged by name of "source" and by internet domain. These lists are generated automatically at CERN from TMC's catalogue. Clicking on the source name takes you directly to the index. Currently there are 310 databases on 88 hosts accesible.
+(Previous issue was September 1992 )
+
+Tim BL

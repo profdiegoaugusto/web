@@ -1,0 +1,57 @@
+W3 Software
+
+
+This is a list of products related to the WWW project with a link to a status summary of each one. For list of previous milestones, releases, etc, see the "Features" list for each product, linked to the wish lists. See also: getting the files .
+
+Common Library
+    The common code library is the basis for most browers. It contains the network access code and format handling.
+
+
+Clients
+
+
+Line Mode Browser
+    This program gives W3 readership to anyone with a dumb terminal. Not as flashy as a windows implementation, it covers a wide class of users who do still not have window facilities, and is a general purpose information retrieval tool.
+
+Curses Browser
+    Assumes a character-grid terminal with cursor addressing, and provides a full-screen interface to the web.
+
+Macintosh Browser
+    WWW browser for the Macintosh. (Pre-alpha.)
+
+"Erwise"
+    WWW browser for X/Motif. (Unsupported).
+
+"ViolaWWW" Browser for X11
+    WWW browser for X11.
+
+tkWWW Browser
+    WWW browser for X11.
+
+MidasWWW Browser
+    WWW browser for X/Motif.
+
+Browser-Editor on the NeXT
+    A browser/editor for NeXTStep. Allows wysiwyg hypertext editing.
+
+Browser on CERNVM
+    A W3 browser for VM. Nonexistant.
+
+Tom Fine's Browser
+    A tty-based browser written in perl. (Beta)
+
+
+Servers
+
+
+VM server
+    A server for VM mainframes.
+
+Generic server
+    A server for unix and VMS systems. A fast file server suitbale on-line documentation, and adaptable to many needs.
+
+VMS/Help gateway
+    Run son a VMS machine and allows webc lient eveywhere to read local VMS/Help files.
+
+Mail Robot
+    A server which will returns documents by mail, given a request sent by mail. Also manages mailing lists.

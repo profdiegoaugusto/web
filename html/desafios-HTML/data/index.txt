@@ -1,0 +1,31 @@
+World Wide Web
+
+The WorldWideWeb (W3) is a wide-area [hypermedia](what_is.html) information retrieval initiative aiming to give universal access to a large universe of documents.
+Everything there is online about W3 is linked directly or indirectly to this document, including an [executive summary](overview.html) of the project, [Mailing lists](Overview.html) , [Policy](policy.html) , [November's W3 news](news_9211.html), [Frequently Asked Questions](faq.html) .
+
+[What's out there?](top.html)
+    Pointers to the world's online information, [subject](overview.html), [W3 servers](servers.html), etc.
+
+[Help](help.html)
+    on the browser you are using
+
+[Software Products](status.html)
+    A list of W3 project components and their current state. (e.g. (Line Mode)[browser.html], [X11 Viola](status.html), [NeXTStep](world_Wide_Web.html), [Servers](overview.html), [Tools](overview.html), [Mail robot](overview.html), [Library](status.html) )
+
+[Technical](technical.html)
+    Details of protocols, formats, program internals etc
+
+[Bibliography](bibliography.html)
+    Paper documentation on W3 and references.
+
+[People](people.html)
+    A list of some people involved in the project.
+
+[History](history.html)
+    A summary of the history of the project.
+
+[How can I help?](helping.html)
+    If you would like to support the web..
+
+[Getting code](readme.html)
+    Getting the code by [anonymous FTP](distribution.html), etc.

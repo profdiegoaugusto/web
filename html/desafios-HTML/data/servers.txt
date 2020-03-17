@@ -1,0 +1,110 @@
+W3 servers
+
+Note: this page is here for historical interest only; the content hasn't been updated since late 1992.
+
+For more up-to-date lists of web servers, see:
+
+    • dmoz.org: Computers: Software: Internet: Servers: WWW
+    • Netcraft: Directory of Web Server Home Sites
+    • WDVL: Servers
+    • Webmaster
+
+____________________________________________________________________________________________________
+
+This is a list of some WWW servers. It does not include all servers, and note that one server machine can serve many databases. See also: background on WWW , and data available by other protocols , data by subject , how to make a new server , test servers . If servers are marker "experimental", you should not expect anything. The top of the list is in reverse chronological order of addition.
+
+NCSA
+    National Center for Supercomputing Applictions, Urbana Champain, IL, USA. Experimental.
+
+IN2P3
+    Lyon, France.
+
+KVI
+    Kernfysisch Versneller Instituut (nuclear physics accelerator institute), Groningen, Netherlands. VMS server.
+
+CWI
+    Center of Mathematics and Computer Science, Amsterdam. FTP server for hypertext, including Gnu TeXInfo stuff as hypertext.
+
+Cornell
+    Legal information: US Intellectual Property Statustes on line.
+
+ZEUS
+    ZEUS experiment at DESY, Hamburg, Germany. [.At least 2 servers]
+
+KEK
+    KEK, Tsukuba, Japan. Experimental only. [FTP hypertext, http server later)
+
+DESY unix server
+    Experimental only as yet.
+
+Denmark's Technical Library
+    The DTB information service includes the library system.
+
+VOICE magazine
+    The first global online hypertext magazine? Ed. Tom Boutell
+
+SLAC
+    Stanford Linear Accelerator, California. HEP preprints database and LOTS more... also a unix server .
+
+Technical University of Graz
+    Information service. Gateway to Hyper-G data.
+
+CCIT Arizona
+    University of Arizona information
+
+Fermilab
+    Documentation from online and offline groups. Also at FNAL, very experimental servers in Theory , D0 , HEPnet management , ACCESS user consultancy .
+
+ASIS Software Repository
+    A server for public domain and CERN software for distribution to CERN members only. The documentation is public.
+
+CERN news
+    Various groups, some more active than others - see the full list
+
+CERN computing documents
+    A keyword index.
+
+Hebrew University of Jerusalem
+    Information service - both in hebrew and English, asssumes a VT terminal with hebrew characters. See also their TeX database (July 1992).
+
+Helsinki Technical University
+    HUT Information tree.
+
+HEPNET
+    Experimental server (might move!) run by US HEPNet at FNAL.
+
+ICTP
+    Italian physics institute (experimental server)
+
+FUNET information
+    Finnish Univerity Research Network.
+
+NIKHEF
+    The Dutch High-Energy Physics center.
+
+Software Technology
+    Information from STING organised by Mike Sendall.
+
+VXCRNA help
+    The VMS help tree on node vxcrna.cern.ch .
+
+WorldWideWeb support
+    information about W3 itself, CERN entry point, and web overviews.
+
+
+Restricted or difficult access
+
+
+SunSite
+    The sunsite repository being set up bu UNC Chapel Hill. (Experimental)
+
+Xerox PARC
+    Private: Access from Xerox.com only. System33 document server.
+
+CIS Informationsdienst
+    The information service from the Centrum fuer Informations und Sprachverarbeitung von Muenchen (don't panic: they also have it in English !) Experimental, very slow line :-(. Times out.
+
+OMT group
+    Private web.
+
+Tim BL

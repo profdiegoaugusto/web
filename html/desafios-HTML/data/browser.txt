@@ -1,0 +1,13 @@
+Line Mode Browser
+
+
+One of several browsers of the WWW project . The LineMode Browser is suitable for use on dumb terminals, requiring no control sequences except for carriage return and line feed. It is also of course useable from terminal emulators in workstation windows. It can also be used as a text formatter, as part of a mail server, and as a general information retrieval tool. See :
+A quick user quide which gets delivered with the product, and points to (also: the More page)
+
+
+Status
+
+Documentation guidelines
+A list of bugs, and improvements needed
+Internals
+Features introduced
