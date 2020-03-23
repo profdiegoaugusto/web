@@ -6,7 +6,7 @@
 
 ## Ponto de Partida
 
-Para começar esse exercício e fazer a marcação em HTML você deverá editar os arquivos `.html` disponíveis na pasta raiz, usando o seu editor de código-fonte favorito, por exemplo:
+Para começar esse exercício e fazer a marcação em HTML você deverá abrir e editar o arquivo `medalhas_jogos_olimpicos_brasil.html` disponível na pasta raiz, usando o seu editor de código-fonte favorito, por exemplo:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Atom](https://atom.io/)
@@ -14,22 +14,19 @@ Para começar esse exercício e fazer a marcação em HTML você deverá editar 
 
 ## Resumo do Projeto
 
-Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, tabelas com dados do [Brasil nos Jogos Olímpicos](https://pt.wikipedia.org/wiki/Brasil_nos_Jogos_Ol%C3%ADmpicos). Você deverá adicionar corretamente: 
+Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, tabelas com dados do [Brasil nos Jogos Olímpicos](https://pt.wikipedia.org/wiki/Brasil_nos_Jogos_Ol%C3%ADmpicos) localizadas na pasta [`data`](data/). Dentro desta pasta, você encontrará cada uma das tabelas no formato texto, que deverão ser acrescentadas no arquivo `medalhas_jogos_olimpicos_brasil.html` substituindo os comentários HTML. Para isso, você deverá adicionar corretamente e quando necessário: 
 
 * **Elementos de Tabelas**: `<table>`, `<thead>`, `<tbody>`, `<tfoot>`, `<tr>`, `<th>` e  `<td>`;
 * **Atributos de Tabelas:** `colspan` e `rowspan`;
 * **Hiperlinks:** `<a>`;
 * **Imagens**: `<img>`;
+    * Substitua os nomes das colunas: Ouro, Prata, Bronze e Total; pelos respectivos arquivos de imagens (`.svg`) na pasta [`img/medalhas`](img/medalhas)
 * **Informações de Estilo Embutido**: atributo `style`.
-
-> ⚠️ Substitua os nomes das colunas: Ouro, Prata, Bronze e Total; pelos respectivos nomes de arquivos de imagens (`.svg`) na pasta [`img/medalhas`](img/medalhas)
 
 ## Dicas & Sugestões
 
 * Use o [validador HTML](https://validator.w3.org/) do W3C para validar seu HTML;
 * Consulte a lista de [elementos HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element) para obter informações detalhadas sobre cada tag e atributos.
-
-
 
 ## REFERÊNCIAS
 
