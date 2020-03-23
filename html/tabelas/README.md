@@ -23,6 +23,8 @@ Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, tabelas com d
     * Substitua os nomes das colunas: Ouro, Prata, Bronze e Total; pelos respectivos arquivos de imagens (`.svg`) na pasta [`img/medalhas`](img/medalhas)
 * **Informações de Estilo Embutido**: atributo `style`.
 
+> **Importante:** Por padrão, o HTML não define as bordas das tabelas e suas células, pois, essa configuração, por se tratar de formatação, deve ser feita somente via CSS. Para facilitar a realização deste projeto e  melhorar a visualização das tabelas nos navegadores, foi adicionada a formatação das bordas usando a folha de estilo [`main.css`](css/main.css).
+
 ## Dicas & Sugestões
 
 * Use o [validador HTML](https://validator.w3.org/) do W3C para validar seu HTML;
