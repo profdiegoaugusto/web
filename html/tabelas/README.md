@@ -22,6 +22,7 @@ Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, tabelas com d
 * **Imagens**: `<img>`;
 * **Informações de Estilo Embutido**: atributo `style`.
 
+> ⚠️ Substitua os nomes das colunas: Ouro, Prata, Bronze e Total; pelos respectivos nomes de arquivos de imagens (`.svg`) na pasta [`img/medalhas`](img/medalhas)
 
 ## Dicas & Sugestões
 
