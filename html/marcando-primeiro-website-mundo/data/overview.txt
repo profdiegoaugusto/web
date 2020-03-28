@@ -1,0 +1,54 @@
+Information by Subject
+
+See also arrangements by organization or by service type . Mail www-request@info.cern.ch if you know of online information not in these lists....
+
+Aeronautics
+    Mailing list archive index .
+
+Astronomy and Astrophysics
+    Abstract Indexes (down?)
+
+Bio Sciences
+    See separate list .
+
+Computing
+    See Networking , Jargon , newsgroups , Software Technology , Languages , Algorithms .
+
+Geography
+    CIA World Fact Book , India: Miscellaneous information , Thai-Yunnan: Davis collection ,
+
+Law
+    US Copyright law .
+
+Libraries
+    Few libraries currently have servers - you have to log on to them. But you can find out how with Art St.George's list of library systems , about "Library" in the internet resource guide , and the hytelnet index .
+
+Literature
+    Project Gutenberg : two classic books a month. See their explanations , the index and newsletter , books published in 1991 , 1992 , and reserved for the USA .
+
+Humanities
+    BMCR classical reviews , Poetry , Scifi reviews . See also electronic journals .
+
+Mathematics
+    CIRM library (french)
+
+Meteorology
+    US weather , state by state. Also WAIS weather (around MIT :-).
+
+Music
+    MIDI interfacing , Song lyrics (apparently disabled for copyright reasons)
+
+Physics
+    High Energy Physics , Astrophysics abstracts .
+
+Politics & Economics
+    US politics . Includes campaign 1992.
+
+Reference
+    Roget's Thesaurus . Experimental English dictionary .
+
+Religion
+    The Bible (King James version) , The Book of Mormon , The Holy Qur'an
+
+Social Sciences
+    Coombs papers archive .
