@@ -1,7 +1,7 @@
 World Wide Web
 
 The WorldWideWeb (W3) is a wide-area [hypermedia](what_is.html) information retrieval initiative aiming to give universal access to a large universe of documents.
-Everything there is online about W3 is linked directly or indirectly to this document, including an [executive summary](overview.html) of the project, [Mailing lists](Overview.html) , [Policy](policy.html) , [November's W3 news](news_9211.html), [Frequently Asked Questions](faq.html) .
+Everything there is online about W3 is linked directly or indirectly to this document, including an [executive summary](overview.html) of the project, [Mailing lists](Overview.html) , [Policy](policy.html) , [November's W3 news](news_9211.html), [Frequently Asked Questions](list.html) .
 
 [What's out there?](top.html)
     Pointers to the world's online information, [subject](overview.html), [W3 servers](servers.html), etc.
