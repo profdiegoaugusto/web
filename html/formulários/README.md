@@ -54,6 +54,18 @@ Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, um formulári
 
 
 
+> **Observações**
+
+
+* **Tipos**: Aço, Água, Dragão, Elétrico, Fada,  Fantasma, Fogo, Gelo, Inseto,  Lutador, Normal, Pedra, Planta, Psíquico, Sombrio, Terra, Venenoso, Voador;
+    * Mínimo 1 e Máximo 2 dentre os valores acima;
+* **Cor**: Amarelo, Azul, Branco, Cinza, Marrom, Preto, Rosa, Roxo, Verde, Vermelho;
+* **Lendário**: Sim ou Não;
+* **Geração**: 1 até 7 inclusive;
+* **Colunas Numéricas:** número, 
+    * **HP**: 1 até 255 inclusive;
+    * **Taxa de Captura**: 0 até 255 inclusive;
+
 
 
 
