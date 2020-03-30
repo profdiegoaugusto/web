@@ -1,5 +1,3 @@
-# Formulários
-
 # Pokémon
 
 Há mais de 10 anos, crianças do mundo inteiro vêm descobrindo o mundo encantado dos Pokémon. Hoje, a família de produtos Pokémon inclui videogames, o jogo Pokémon Estampas Ilustradas, a série de TV animada, filmes, brinquedos e muito mais. Muitos pais acreditam que o Pokémon Estampas Ilustradas e os videogames do Pokémon estimulam seus filhos a aprender a ler, já que a leitura é indispensável na maioria dos jogos do Pokémon. Os jogos também estimulam o pensamento estratégico e, em muitos casos, habilidades matemáticas básicas. O Pokémon valoriza muito o espírito esportivo e o respeito pelos outros jogadores.
@@ -20,7 +18,7 @@ Para começar esse exercício e fazer a marcação em HTML, você deverá criar 
 
 ## Resumo do Projeto
 
-Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, um formulário de cadastro de Pokémons para os dados da tabela abaixo. Você deverá estruturar o documento geral com uma estrutura apropriada conforme a sintaxe e semântica do HTML5, incluindo os elementos: `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`. Além disso, coloque uma imagem `<img>` para cada receita após o nome dela e adicione corretamente quando necessário:
+Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, um formulário de cadastro de Pokémons para os dados da tabela abaixo. Você deverá estruturar o documento geral com uma estrutura apropriada conforme a sintaxe e semântica do HTML5, incluindo os elementos: `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`; além disso, adicione corretamente quando necessário:
 
 * **Elementos de Formulários:** `<form>, <fieldset>, <legend>, <label>;`
 * **Controles de Formulário:**
@@ -52,17 +50,14 @@ Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, um formulári
 | peso_kg         | Peso em Kilos do Pokémon                                                                                                                                                                                                         |
 | taxa_captura | A taxa de captura do Pokémon é um número entre 0 e 255, quanto maior, melhor |
 
-
-
-> **Observações**
-
+### Observações
 
 * **Tipos**: Aço, Água, Dragão, Elétrico, Fada,  Fantasma, Fogo, Gelo, Inseto,  Lutador, Normal, Pedra, Planta, Psíquico, Sombrio, Terra, Venenoso, Voador;
     * Mínimo 1 e Máximo 2 dentre os valores acima;
 * **Cor**: Amarelo, Azul, Branco, Cinza, Marrom, Preto, Rosa, Roxo, Verde, Vermelho;
 * **Lendário**: Sim ou Não;
 * **Geração**: 1 até 7 inclusive;
-* **Colunas Numéricas:** número, 
+* **Colunas Numéricas:** número, total, hp, ataque, defesa, ataque_especial, defesa_especial, velocidade, altura_m, peso_kg, taxa_captura;
     * **HP**: 1 até 255 inclusive;
     * **Taxa de Captura**: 0 até 255 inclusive;
 
@@ -78,6 +73,9 @@ Para este projeto, sua tarefa é marcar usando a sintaxe do HTML5, um formulári
 
 ## REFERÊNCIAS
 
-* [Cozinha Mineira](https://www.mg.gov.br/conteudo/conheca-minas/cozinha-mineira/cozinha-mineira)
-
+* [Guia de formulários HTML](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Forms)
+* [Como estruturar um formulário HTML](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Forms/How_to_structure_an_HTML_form)
+* [Basic native form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls)
+* [The HTML5 input types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
+* [Other form controls](https://developer.mozilla.org/en-US/docs/Learn/Forms/Other_form_controls)
 
