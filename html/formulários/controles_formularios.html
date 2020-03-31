@@ -30,85 +30,253 @@
     <main>
 
         <section id="entrada-texto">
-            <header><h2>1. Campos de entrada de texto</h2></header>
+            <header>
+                <h2>1. Campos de entrada de texto</h2>
+            </header>
+            
             <h3>Campos de Texto de Linha Única</h3>
+            <label for="nome">Nome</label>
+            <input id="campo-nome" type="text" name="nome" value="">
+
+            <h3>Campo de Senha</h3>
+            <input type="password" name="pwd" id="campo-senha">
+
             <h3>Conteúdo Oculto</h3>
+            <input type="hidden" name="codigo-usuario" id="id-usuario">
+
         </section>
 
         <section>
-            <header id="itens-verificaveis"><h2>2. Itens Verificáveis: caixas de seleção e botões de opção</h2></header>
+            <header id="itens-verificaveis">
+                <h2>2. Itens Verificáveis: caixas de seleção e botões de opção</h2>
+            </header>
+            
             <h3>Check Box</h3>
+            <fieldset>
+                <legend>Quais são suas habilidades?</legend>
+                <ul>
+                    <li>
+                        <input type="checkbox" name="html" id="html" value="html" checked>
+                        <label for="html">HTML</label>
+                    </li>
+
+                    <li>
+                        <input type="checkbox" name="css" id="css" value="css">
+                        <label for="css">CSS</label>
+                    </li>
+
+                    <li>
+                        <input type="checkbox" name="javascript" id="javascript" value="javascript">
+                        <label for="javascript">JavaScript</label>
+                    </li>
+                    
+                </ul>
+            </fieldset>
+
+
             <h3>Radio Button</h3>
+
+            <fieldset>
+                <legend>Qual é a sua cor favorita?</legend>
+                <ul>
+                    <li>
+                        <input type="radio" name="cores" id="vermelho" checked>
+                        <label for="vermelho">Vermelho</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="cores" id="laranja">
+                        <label for="laranja">Laranja</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="cores" id="amarelo">
+                        <label for="amarelo">Amarelo</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="cores" id="verde">
+                        <label for="verde">Verde</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="cores" id="azul">
+                        <label for="azul">Azul</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="cores" id="anil">
+                        <label for="anil">Anil</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="cores" id="violeta">
+                        <label for="violeta">Violeta</label>
+                    </li>
+                </ul>
+            </fieldset>
+
+
+
+
         </section>
         
         <section id="botoes">
-            <header><h2>3. Botões</h2></header>
+            <header>
+                <h2>3. Botões</h2>
+            </header>
+
             <h3>Submit</h3>
+            <button type="submit">Enviar</button>
+
             <h3>Reset</h3>
+            <button type="reset">Limpar</button>
+
             <h3>Anonymous</h3>
-            <h3>Image Button</h3>
+            <button type="button">Clique Aqui!</button>
         </section>
 
         <section id="seletor-arquivos">
-            <header><h2>4. Seletor de Arquivos</h2></header>
+            <header>
+                <h2>4. Seletor de Arquivos</h2>
+            </header>
+            <input type="file" name="arquivo" id="campo-upload">
+
         </section>
         
         <section id="campo-email">
-            <header><h2>5. Campo de Endereço de Email</h2></header>
+            <header>
+                <h2>5. Campo de Endereço de Email</h2>
+            </header>
+            <input type="email" name="email" id="email">
         </section>
         
         <section id="campo-telefone">
-            <header><h2>6. Campo do Número de Telefone</h2></header>
+            <header>
+                <h2>6. Campo do Número de Telefone</h2>
+            </header>
+            <input type="tel" name="telefone" id="telefone">
         </section>
 
         <section id="campo-busca">
-            <header><h2>7. Campo de Busca</h2></header>
+            <header>
+                <h2>7. Campo de Busca</h2>
+            </header>
+            <input type="search" name="pesquisa" id="campo-pesquisa">
         </section>
 
         <section id="campo-url">
-            <header><h2>8. Campo URL</h2></header>
+            <header>
+                <h2>8. Campo URL</h2>
+            </header>
+            <input type="url" name="url" id="url">
         </section>
 
         <sectio id="campo-numerico">
-            <header><h2>9. Campo Numérico</h2></header>
+            <header>
+                <h2>9. Campo Numérico</h2>
+            </header>
+            <input type="number" name="idade" id="campo-idade" step="1" min="18" max="110">
         </section>
 
         <section id="controles-deslizantes">
-            <header><h2>10. Controles Deslizantes</h2></header>
+            <header>
+                <h2>10. Controles Deslizantes</h2>
+            </header>
+
+            <label for="preco">Preço</label>
+            <input type="range" name="preco" id="preco" min="0" max="500" value="75">
+            <output for="preco">0</output>
+
         </section>
 
         <section id="selecionador-data-hora">
-            <header><h2>11. Selecionadores de Data e Hora</h2></header>
+            <header>
+                <h2>11. Selecionadores de Data e Hora</h2>
+            </header>
 
             <h3>datetime-local</h3>
+            <input type="datetime-local" name="data-hora" id="data-hora">
 
             <h3>month</h3>
+            <input type="month" name="mes" id="mes">
 
             <h3>time</h3>
+            <input type="time" name="hora" id="hora">
 
             <h3>week</h3>
+            <input type="week" name="semana" id="semana">
 
             <h3>Restringindo Valores de Data/Hora</h3>
+            <label for="inscricao-evento">Data Evento</label>
+            <input type="date" name="inscricao-evento" min="2020-02-01" max="2020-02-29" step="7" id="inscricao-evento">
         </section>
 
 
         <section id="seletor-cores">
-            <header><h2>12. Controle de Seletor de Cores</h2></header>
+            <header>
+                <h2>12. Controle de Seletor de Cores</h2>
+            </header>
+            <input type="color" name="cor" id="cor">
         </section>
 
         <section id="campo-texto-varias-linhas">
-            <header><h2>13. Campos de texto com Várias Linhas</h2></header>
+            <header>
+                <h2>13. Campos de texto com Várias Linhas</h2>
+            </header>
+            <textarea name="comentario" id="comentarios" cols="30" rows="10" maxlength="10"></textarea>
         </section>
  
         <section id="controles-suspensos">
-            <header><h2>14. Controles Suspensos</h2></header>
+            <header>
+                <h2>14. Controles Suspensos</h2>
+            </header>
+
             <h3>Select Box</h3>
+            <select name="frutas" id="frutas">
+                <option value="banana">Banana</option>
+                <option value="maçã">Maçã</option>
+                <option value="laranja">Laranja</option>
+            </select>
+
+            
+
+            <select name="regioes-estados-brasileiros" id="regioes-estados-brasileiros">
+                <optgroup label="Região Sul do Brasil">
+                    <option value="RS">Rio Grande do Sul</option>
+                    <option value="PR">Paraná</option>
+                    <option value="SC">Santa Catarina</option>
+                </optgroup>
+                <optgroup label="Região Sudeste do Brasil">
+                    <option value="MG">Minas Gerais</option>
+                    <option value="ES">Espírito Santo</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="SP">São Paulo</option>
+                </optgroup>
+            </select>
+
             <h3>Caixa de Seleção de Múltipla Escolha</h3>
+
+            <select name="dias-semanas" id="dias-semana" multiple size="6">
+                <option value="1">Domingo</option>
+                <option value="2">Segunda-feira</option>
+                <option value="3">Terça-feira</option>
+                <option value="4">Quarta-feira</option>
+                <option value="5">Quinta-feira</option>
+                <option value="6">Sexta-feira</option>
+            </select>
+
             <h3>Autocomplete Box</h3>
+            <label for="tecnologia-favorita">Qual é a sua tecnologia Web favorita?</label>
+            <input type="text" name="tecnologia-favorita" id="tecnologia-favorita" list="sugestao-tecnologia">
+            <datalist id="sugestao-tecnologia">
+                <option value="HTML">HTML</option>
+                <option value="CSS">CSS</option>
+                <option value="JavaScript">JavaScript</option>
+            </datalist>
+        
         </section>
 
         <section>
-            <header><h2 id="medidores-barra-progresso">15. Medidores e Barras de Progresso</h2></header>
+            <header>
+                <h2 id="medidores-barra-progresso">15. Medidores e Barras de Progresso</h2>
+            </header>
+            <progress max="100" min="75"></progress>
+            <meter min="0" max="100" low="30" high="100" optimum="70" value="25">25</meter>
         </section>
 
     </main>
